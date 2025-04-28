@@ -50,11 +50,11 @@ Seguir creciendo como desarrollador backend, integrando soluciones profesionales
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoYanez&show_icons=true&theme=radical" alt="FranciscoYanez GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoYanez&show_icons=true&theme=radical&count_private=true" alt="FranciscoYanez GitHub Stats" />
 </p>
 
 ## 📈 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoYanez&layout=compact&theme=radical" alt="FranciscoYanez Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoYanez&layout=compact&theme=radical&count_private=true" alt="FranciscoYanez Top Languages" />
 </p>
