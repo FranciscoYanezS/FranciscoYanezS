@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Francisco Yañez!
 
-<!--
-**FranciscoYanezS/FranciscoYanezS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desarrollador Backend** especializado en **Python 🐍**, **Django 🚀**, **Flask 🔥** y bases de datos **PostgreSQL 🛢️** y **SQLite3**.  
+🎨 Actualmente ampliando habilidades en **frontend** con **React ⚛️**.
 
-Here are some ideas to get you started:
+📚 Ingeniero Civil Eléctrico - **USACH**  
+🎓 Postítulo en Telecomunicaciones - **USACH**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados
+
+- 🌍 **[PPDA - Plataforma de Planes de Descontaminación](https://ppda-2.onrender.com)**  
+  Backend Django + Render + Neon Database.
+- 📦 Próximamente más proyectos interesantes...
+
+---
+
+## 🛠️ Tecnologías que uso
+
+- **Backend:** Python 🐍 | Django 🚀 | Django REST Framework | Flask 🔥
+- **Frontend:** JavaScript 🖥️ | React ⚛️
+- **Bases de Datos:** PostgreSQL 🛢️ | SQLite 🗄️
+- **DevOps:** GitHub Actions ⚙️ (CI/CD) | Render 🌐 | Neon Database ☁️
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- ☁️ Deploys avanzados en la nube
+- 🚀 Mejora continua de CI/CD
+- ⚛️ Desarrollo frontend profesional con React
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- 📧 Email: [fyanez.s@outlook.com](mailto:fyanez.s@outlook.com)
+- 💼 LinkedIn: [Francisco Yañez](https://www.linkedin.com/in/francisco-ya%C3%B1ez-1744a19a/)
+
+---
+
+## 🎯 Objetivo
+
+Seguir creciendo como desarrollador backend, integrando soluciones profesionales de backend y frontend, con despliegues optimizados en la nube.
+
+---
