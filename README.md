@@ -55,5 +55,5 @@ Seguir creciendo como desarrollador backend, integrando soluciones profesionales
 ## 📈 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoYanezS&layout=compact&theme=radical&count_private=true" alt="FranciscoYanez Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoYanezS />
 </p>
