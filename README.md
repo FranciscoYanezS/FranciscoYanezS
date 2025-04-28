@@ -50,7 +50,7 @@ Seguir creciendo como desarrollador backend, integrando soluciones profesionales
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoYanezS&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoYanezS" />
 </p>
 ## 📈 Lenguajes más usados
 
