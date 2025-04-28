@@ -50,6 +50,10 @@ Seguir creciendo como desarrollador backend, integrando soluciones profesionales
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=holi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoYanezS&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=holi" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoYanezS" />
 </p>
 
