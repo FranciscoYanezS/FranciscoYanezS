@@ -42,6 +42,19 @@
 
 ## 🎯 Objetivo
 
-Seguir creciendo como desarrollador backend, integrando soluciones profesionales de backend y frontend, con despliegues optimizados en la nube.
+Seguir creciendo como desarrollador backend, integrando soluciones profesionales de backend y frontend en el múndo eléctrico y telecomunicaciones, con despliegues optimizados en la nube.
 
 ---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoYanez&show_icons=true&theme=radical" alt="FranciscoYanez GitHub Stats" />
+</p>
+
+## 📈 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoYanez&layout=compact&theme=radical" alt="FranciscoYanez Top Languages" />
+</p>
