@@ -46,15 +46,3 @@ Seguir creciendo como desarrollador backend, integrando soluciones profesionales
 
 ---
 
-
-## 📊 Mis contribuciones en GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranciscoYanezS&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoYanezS&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FranciscoYanezS&theme=radical)
-
-<!-- Opcional: si activas contribuciones privadas -->
-⚡ *Incluye contribuciones privadas en el gráfico.*
-
